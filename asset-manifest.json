@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/emojipedia/static/js/main.2f102164.js",
+    "index.html": "/emojipedia/index.html",
+    "main.2f102164.js.map": "/emojipedia/static/js/main.2f102164.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2f102164.js"
+  ]
+}
